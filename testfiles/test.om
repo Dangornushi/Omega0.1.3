@@ -1,0 +1,7 @@
+class Main{
+    def main{
+        print{"OK"};
+        end;
+    }
+    func main
+}

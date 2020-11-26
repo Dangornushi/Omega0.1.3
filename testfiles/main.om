@@ -1,0 +1,14 @@
+class Main{
+    def sub{
+        str x = dango;
+        print{"OK"};
+        int a = 12;
+        print{str x};
+        end;
+    } def sub2 {
+        print{"fin"};
+        end;
+    }
+    func sub
+    func sub2
+}
