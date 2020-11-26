@@ -6,6 +6,11 @@ pythonとbatchファイルで構成された自作言語。
 exeファイルが同梱されていますが不調が多いのでおすすめはしません。
 batch使用のためおよび作者のマシンの都合でwindows専用です。（Windows10proで動作確認。）
 
+## 前バージョンとの比較/変更点
+
+- exe化(でもあんま意味なかった、、、)
+- 関数定義
+- それに伴った文法のアップデート
 
 ## 基本文法
 
@@ -29,6 +34,13 @@ class Main{
 }
 ~~~
 
+結果:
+~~~
+OK
+12
+dangomushi
+~~~
+
 - プログラムはすべてMainクラスの中に書きます。
 - 関数定義にはdefを使います。関数の範囲の指定には、語尾に「;」をつけて最後にendを付けます。
 - 今のところ関数に引数や型の指定はできません。
@@ -47,6 +59,6 @@ class Main{
 
 ## その他
 
-製作者：dangomushi
+製作者：dangomushi(pythonmaster)
 
-Qiita: https://qiita.com/ThinkpadL540
+Qiita: https://qiita.com/ThinkpadL540 (自部のモチベのためにもフォローしていただけると幸いです！)
